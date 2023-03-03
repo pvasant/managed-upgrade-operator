@@ -10,7 +10,7 @@ import (
 
 const (
 	// OperatorName is the name of the operator
-	OperatorName string = "managed-upgrade-operator"
+	OperatorName1 string = "managed-upgrade-operator"
 	// OperatorNamespace is the namespace of the operator
 	OperatorNamespace string = "openshift-managed-upgrade-operator"
 	// SyncPeriodDefault reconciles a sync period for each controller
